@@ -11,4 +11,4 @@ Each task is organized in its own folder and includes source code, documentation
 
 | 🔢 Task No. | 📌 Task Name                | 📂 Folder Link                         |
 |--------------|-----------------------------|----------------------------------------|
-| 1            | Simple Calculator           |  |
+| 1            | Simple Calculator           |  SimpleCalculator                      |
