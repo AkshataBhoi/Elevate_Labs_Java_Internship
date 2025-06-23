@@ -3,7 +3,7 @@
 Welcome to my internship repository!  
 This repo contains all the tasks, assignments, and mini-projects completed during my internship at **Elevate Labs** as a **Java Developer Intern**.
 
-Each task is organized in its own folder and includes source code, documentation (if any), and instructions to run the program.
+Each task is organized in its own folder and includes source code, documentation (if any).
 
 ---
 
