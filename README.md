@@ -12,3 +12,5 @@ Each task is organized in its own folder and includes source code, documentation
 | 🔢 Task No.| 📌 Task Name                | 📂 Folder Link                         |
 |-------------|-----------------------------|-----------------------------------------|
 | 1           | Simple Calculator           |   [View Details](SimpleCalculator)      |
+| 2           | Student Record System       |   [View Details](StudentRecordSystem)   |
+
