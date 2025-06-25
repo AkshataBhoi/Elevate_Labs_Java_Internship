@@ -14,3 +14,10 @@ Each task is organized in its own folder and includes source code, documentation
 | 1           | Simple Calculator           |   [View Details](SimpleCalculator)      |
 | 2           | Student Record System       |   [View Details](StudentRecordSystem)   |
 
+
+
+## 🔗 Task Links
+
+📌 **Please go through the link(s) provided for each task in this repository folder structure.**  
+Each task is organized into a separate folder with relevant code and documentation. 
+
