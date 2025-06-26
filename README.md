@@ -9,10 +9,11 @@ Each task is organized in its own folder and includes source code, documentation
 
 ## 📁 Folder Structure
 
-| 🔢 Task No.| 📌 Task Name                | 📂 Folder Link                         |
-|-------------|-----------------------------|-----------------------------------------|
-| 1           | Simple Calculator           |   [View Details](SimpleCalculator)      |
-| 2           | Student Record System       |   [View Details](StudentRecordSystem)   |
+| 🔢 Task No.| 📌 Task Name                | 📂 Folder Link                             |
+|-------------|-----------------------------|---------------------------------------------|
+| 1           | Simple Calculator           |   [View Details](SimpleCalculator)          |
+| 2           | Student Record System       |   [View Details](StudentRecordSystem)       |
+| 3           | Library Management System   |   [View Details](LibraryManagementSystem)   |
 
 
 
