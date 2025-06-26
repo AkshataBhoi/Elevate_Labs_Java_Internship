@@ -21,7 +21,3 @@ A simple **Java-based console application** to manage student records using **CR
 - ArrayList for dynamic data storage
 
 ---
-
-## 🚀 How to Run
-
-![alt text](OutputStudentMenu.jpeg)
