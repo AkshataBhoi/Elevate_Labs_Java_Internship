@@ -14,7 +14,7 @@ Each task is organized in its own folder and includes source code, documentation
 | 1           | Simple Calculator           |   [View Details](SimpleCalculator)          |
 | 2           | Student Record System       |   [View Details](StudentRecordSystem)       |
 | 3           | Library Management System   |   [View Details](LibraryManagementSystem)   |
-| 4           | FileI/O - Notes App         |   [View Details](FileI/O-NotesApp)          |
+| 4           | FileI/O - Notes App         |   [View Details](FileIO-NotesApp)          |
 
 
 
