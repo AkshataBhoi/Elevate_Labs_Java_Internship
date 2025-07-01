@@ -16,7 +16,7 @@ Each task is organized in its own folder and includes source code, documentation
 | 3           | Library Management System   |   [View Details](LibraryManagementSystem)   |
 | 4           | FileI/O - Notes App         |   [View Details](FileIO-NotesApp)           |
 | 5           | Bank Account Simulation     |   [View Details](BankAccountSimulation)     |
-| 6           | GUI - ToDo App              |   [View Details](GUIToDOList)               |
+| 6           | GUI - ToDo App              |   [View Details](GUIToDoList)               |
 
 
 
