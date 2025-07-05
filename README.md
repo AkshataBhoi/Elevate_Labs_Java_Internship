@@ -18,6 +18,8 @@ Each task is organized in its own folder and includes source code, documentation
 | 5           | Bank Account Simulation     |   [View Details](BankAccountSimulation)     |
 | 6           | GUI - ToDo App              |   [View Details](GUIToDOList)               |
 | 7           | Java JDBC - Employee DB App |   [View Details](EmployeeDBApp)             |
+| 8           | Java Online Quiz App        |   [View Details](JavaQuizApp)               |
+
 
 
 
