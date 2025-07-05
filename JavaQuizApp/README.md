@@ -9,16 +9,6 @@ This project demonstrates:
 
 ---
 
-## 📂 Project Structure
-
-JavaQuizApp/
-├── QuizApp.java
-├── Questions.java
-├── QuizFunctions.java
-
-
----
-
 ## 📝 How It Works
 
 - **QuizApp.java**  
