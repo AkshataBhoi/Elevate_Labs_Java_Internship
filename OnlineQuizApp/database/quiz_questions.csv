@@ -1,0 +1,51 @@
+category,question_text,option_a,option_b,option_c,option_d,correct_option
+GK,What is the capital of France?,London,Berlin,Paris,Madrid,Paris
+GK,Which planet is known as the Red Planet?,Earth,Venus,Mars,Jupiter,Mars
+GK,What is the largest mammal?,Elephant,Blue Whale,Giraffe,Rhino,Blue Whale
+GK,Which country hosted the 2020 Summer Olympics?,Japan,China,Brazil,UK,Japan
+GK,Which is the longest river in the world?,Amazon,Nile,Ganga,Yangtze,Nile
+GK,Who discovered gravity?,Newton,Einstein,Tesla,Edison,Newton
+GK,What is the capital of Australia?,Sydney,Melbourne,Canberra,Brisbane,Canberra
+GK,How many continents are there?,5,6,7,8,7
+GK,Which is the smallest planet?,Mercury,Mars,Venus,Earth,Mercury
+GK,Who wrote the national anthem of India?,Bankim Chandra,Tagore,Nehru,Gandhi,Tagore
+GK,In which year did India gain independence?,1945,1946,1947,1950,1947
+GK,Which gas do plants absorb?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Carbon Dioxide
+GK,Which organ purifies blood?,Heart,Lungs,Kidney,Liver,Kidney
+GK,What is the boiling point of water?,90°C,95°C,100°C,105°C,100°C
+GK,Who was the first President of India?,Rajendra Prasad,S. Radhakrishnan,Nehru,Gandhi,Rajendra Prasad
+GK,Which country is known as the Land of Rising Sun?,India,China,Japan,Thailand,Japan
+GK,What is the largest desert?,Sahara,Gobi,Kalahari,Thar,Sahara
+GK,Which is the largest ocean?,Atlantic,Indian,Pacific,Arctic,Pacific
+GK,Who invented the telephone?,Bell,Edison,Tesla,Newton,Bell
+GK,What currency is used in Japan?,Yuan,Yen,Won,Dollar,Yen
+GK,Which animal is known as the Ship of the Desert?,Horse,Camel,Elephant,Ox,Camel
+GK,What is the national bird of India?,Peacock,Swan,Parrot,Crow,Peacock
+GK,Which color is made by mixing red and white?,Pink,Orange,Brown,Purple,Pink
+GK,Who was the first man on the moon?,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,John Glenn,Neil Armstrong
+GK,Which instrument is used to measure temperature?,Thermometer,Barometer,Altimeter,Hygrometer,Thermometer
+Programming,Which keyword is used to create a class in Java?,define,create,class,new,class
+Programming,What does HTML stand for?,Hyper Text Markup Language,High Text Machine Language,Hyper Tool Multi Language,Home Tool Markup Language,Hyper Text Markup Language
+Programming,What does CSS stand for?,Cascading Style Sheet,Color Style Sheet,Creative Style Sheet,Computer Style Sheet,Cascading Style Sheet
+Programming,Which tag is used to insert an image in HTML?,<pic>,<image>,<img>,<src>,<img>
+Programming,Which symbol is used for comments in Python?,//,#,/* */,<!-- -->,#
+Programming,Which loop is used to iterate a known number of times?,while,loop,for,do,for
+Programming,Which company developed Java?,Microsoft,Sun Microsystems,Apple,Google,Sun Microsystems
+Programming,Which is not a programming language?,Python,Java,HTML,C++,HTML
+Programming,Which of these is a frontend language?,PHP,Python,HTML,Java,HTML
+Programming,What does SQL stand for?,Structured Query Language,Simple Query Language,Statement Query Language,Stylish Query Language,Structured Query Language
+Programming,Which keyword is used to inherit a class in Java?,extends,inherits,implement,instanceof,extends
+Programming,Which method is used to start a thread in Java?,start(),run(),execute(),begin(),start()
+Programming,"In HTML, which tag is used for a hyperlink?",<a>,<link>,<href>,<url>,<a>
+Programming,Which symbol is used to access members of a class in Java?,.,::,->,#,.
+Programming,Which is the correct way to declare an array in Java?,int[] arr;,arr[] int;,int arr[];,array int[];,int[] arr;
+Programming,Which function is used to print in Python?,write(),echo(),printf(),print(),print()
+Programming,What is used to style web pages?,HTML,Java,CSS,Python,CSS
+Programming,Which keyword is used to define a function in Python?,func,function,def,define,def
+Programming,What is the output of 3 + 2 * 2 in Python?,10,7,8,9,7
+Programming,Which language is used for Android Development?,Python,Swift,Java,Kotlin,Kotlin
+Programming,Which operator is used for comparison?,=,==,!=,<>,==
+Programming,What does IDE stand for?,Integrated Design Environment,Integrated Development Environment,Internal Development Environment,Internet Development Environment,Integrated Development Environment
+Programming,Which of these is not an IDE?,VS Code,PyCharm,Eclipse,YouTube,YouTube
+Programming,Which file extension is used for Java files?,.java,.js,.py,.cpp,.java
+Programming,Which keyword is used to define a constant in Java?,const,final,static,immutable,final

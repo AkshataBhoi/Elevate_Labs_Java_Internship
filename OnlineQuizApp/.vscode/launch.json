@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MultiPageApp",
+      "request": "launch",
+      "mainClass": "MultiPageApp",
+      "projectName": "OnlineQuizApp_1c0c0c34",
+      "vmArgs": "--module-path \"C:/Users/Akshata/Desktop/ElevateLabsInternship/Elevate_Labs_Java_Internship/OnlineQuizApp/lib/javafx-sdk-17.0.15/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Run JavaFX App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "OnlineQuizApp_1c0c0c34",
+      "vmArgs": "--module-path \"C:/Users/Akshata/Desktop/ElevateLabsInternship/Elevate_Labs_Java_Internship/OnlineQuizApp/lib/javafx-sdk-17.0.15/lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}

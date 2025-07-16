@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "OnlineQuizApp\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx.base.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx.controls.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx.fxml.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx.graphics.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx.media.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx.swing.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx.web.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/javafx-swt.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/jdk.jsobject.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/jfx.incubator.input.jar",
+        "OnlineQuizApp/lib/javafx-sdk-24.0.1/lib/jfx.incubator.richtext.jar"
+    ]
+}
