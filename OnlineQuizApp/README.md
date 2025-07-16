@@ -6,7 +6,17 @@ A desktop quiz application built using JavaFX, MySQL, and JDBC. Users can log in
 
 ## 📁 Project Structure
 
-![alt text](image-6.png)
+OnlineQuizApp/
+├── src/
+│ ├── App.java
+│ ├── Question.java
+│ └── QuizDAO.java
+├── lib/
+│ └── javafx-sdk-17.0.15/
+├── database/
+│ └── quiz_questions.csv
+├── out/ (compiled files)
+├── README.md
 
 The workspace contains two folders by default, where:
 
@@ -36,10 +46,11 @@ mysql -u root -p
 ```
 
 ### 2. Create and Use the Database
-
+```sql
 CREATE DATABASE IF NOT EXISTS java_quizdb;
 USE java_quizdb;
 
+```
 ### 3. Create Table
 
 ```sql
