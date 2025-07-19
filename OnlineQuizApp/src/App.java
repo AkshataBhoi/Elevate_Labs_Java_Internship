@@ -52,7 +52,7 @@ public class App extends Application {
     private void showPage1() {
         Label welcomeMsg = new Label("Welcome To Online Java Quiz");
         welcomeMsg.getStyleClass().add("label");
-        Label LoginMsg = new Label("Click To start!!!");
+        Label LoginMsg = new Label("Click To Start!!!");
         LoginMsg.getStyleClass().add("label");
 
         Button getStarted = new Button("Get Started!");
