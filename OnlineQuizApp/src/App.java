@@ -52,18 +52,18 @@ public class App extends Application {
     private void showPage1() {
         Label welcomeMsg = new Label("Welcome To Online Java Quiz");
         welcomeMsg.getStyleClass().add("label");
-        Label LoginMsg = new Label("Login To start!!!");
+        Label LoginMsg = new Label("Click To start!!!");
         LoginMsg.getStyleClass().add("label");
 
-        Button LoginBtn = new Button("Login...");
-        LoginBtn.getStyleClass().add("button");
+        Button getStarted = new Button("Get Started!");
+        getStarted.getStyleClass().add("button");
 
-        LoginBtn.setOnAction(e -> showPage2());
+        getStarted.setOnAction(e -> showPage2());
 
         VBox layout1 = new VBox(20);
         // layout1.setStyle("-fx-alignment: center; -fx-padding: 30;-fx-background-color: skyblue;");
         layout1.getStyleClass().add("vbox");
-        layout1.getChildren().addAll(welcomeMsg, LoginMsg, LoginBtn);
+        layout1.getChildren().addAll(welcomeMsg, LoginMsg, getStarted);
 
         Scene scene1 = new Scene(layout1, 600, 500);
         scene1.getStylesheets().add(css);
@@ -76,7 +76,7 @@ public class App extends Application {
         Label nameLabel = new Label("Name:");
         nameLabel.getStyleClass().add("label");
 
-        nameField = new TextField();
+        nameField = new TextField("admin123");
         nameField.getStyleClass().add("text-field");
 
         HBox nameRow = new HBox(15); // spacing between label and field
@@ -87,6 +87,7 @@ public class App extends Application {
         passwordLabel.getStyleClass().add("label");
 
         PasswordField passwordField = new PasswordField();
+        passwordField.setText("123456");
         passwordField.getStyleClass().add("password-field");
 
         HBox passwordBox = new HBox(5);
@@ -97,7 +98,7 @@ public class App extends Application {
         login.getStyleClass().add("button");
         login.setOnAction(e -> {
             // Check first before doing anything else
-            if (nameField.getText().isEmpty() || passwordField.getText().isEmpty()) {
+            if (nameField.getText().isEmpty() || passwordField.getText().isEmpty() || (!nameField.getText().equals("admin123") || !passwordField.getText().equals("123456"))) {
                 Alert alert = new Alert(Alert.AlertType.WARNING);
                 alert.setTitle("Input Validation");
                 alert.setHeaderText(null);
