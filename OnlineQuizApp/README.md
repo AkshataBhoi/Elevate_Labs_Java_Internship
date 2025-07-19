@@ -36,11 +36,13 @@ mysql -u root -p
 ```
 
 ### 2. Create and Use the Database
+
 ```sql
 CREATE DATABASE IF NOT EXISTS java_quizdb;
 USE java_quizdb;
 
 ```
+
 ### 3. Create Table
 
 ```sql
@@ -81,22 +83,29 @@ javac --module-path "lib/javafx-sdk-17.0.15/lib" --add-modules javafx.controls,j
 java --module-path "lib/javafx-sdk-17.0.15/lib" --add-modules javafx.controls,javafx.fxml -cp out App
 
 ```
+
 ---
+
 ## Outputs
 
 ### Welcome Page
+
 ![alt text](image.png)
 
 ### User Login with admin123
+
 ![alt text](image-1.png)
 
 ### Start Quiz
+
 ![alt text](image-2.png)
 
 ### Random 5 Questions
+
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
 
 ### Score and Re-start
+
 ![alt text](image-5.png)
