@@ -122,7 +122,7 @@ public class App extends Application {
 
         VBox layout2 = new VBox(20); // spacing between rows
         layout2.getStyleClass().add("vbox");
-        layout2.getChildren().addAll(new Label("Form Page"), nameRow, passwordBox, login);
+        layout2.getChildren().addAll(nameRow, passwordBox, login);
 
         Scene scene2 = new Scene(layout2, 600, 500);
         scene2.getStylesheets().add(css);
