@@ -9,16 +9,17 @@ Each task is organized in its own folder and includes source code, documentation
 
 ## 📁 Folder Structure
 
-| 🔢 Task No.| 📌 Task Name                | 📂 Folder Link                             |
-|-------------|-----------------------------|---------------------------------------------|
-| 1           | Simple Calculator           |   [View Details](SimpleCalculator)          |
-| 2           | Student Record System       |   [View Details](StudentRecordSystem)       |
-| 3           | Library Management System   |   [View Details](LibraryManagementSystem)   |
-| 4           | FileI/O - Notes App         |   [View Details](FileIO-NotesApp)           |
-| 5           | Bank Account Simulation     |   [View Details](BankAccountSimulation)     |
-| 6           | GUI - ToDo App              |   [View Details](GUIToDOList)               |
-| 7           | Java JDBC - Employee DB App |   [View Details](EmployeeDBApp)             |
-| 8           | Java Online Quiz App        |   [View Details](JavaQuizApp)               |
+| 🔢 Task No.       | 📌 Task Name                | 📂 Folder Link                             |
+|-------------------|------------------------------|---------------------------------------------|
+| 1                 | Simple Calculator            |   [View Details](SimpleCalculator)          |
+| 2                 | Student Record System        |   [View Details](StudentRecordSystem)       |
+| 3                 | Library Management System    |   [View Details](LibraryManagementSystem)   |
+| 4                 | FileI/O - Notes App          |   [View Details](FileIO-NotesApp)           |
+| 5                 | Bank Account Simulation      |   [View Details](BankAccountSimulation)     |
+| 6                 | GUI - ToDo App               |   [View Details](GUIToDOList)               |
+| 7                 | Java JDBC - Employee DB App  |   [View Details](EmployeeDBApp)             |
+| 8                 | Java Online Quiz App        `|   [View Details](JavaQuizApp)               |
+| 9 - Final Project | Online Quiz App using JavaFX |   [View Details](OnlineQuizApp)             |
 
 
 
